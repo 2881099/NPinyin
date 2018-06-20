@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>NPinyin.Core</AssemblyName>
+    <PackageId>NPinyin.Core</PackageId>
+    <RootNamespace>NPinyin</RootNamespace>
+    <Version>2.1.2</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/2881099/NPinyin</PackageProjectUrl>
+    <Description>汉字拼音转换 .NETCore 版本 NPinyin</Description>
+    <RepositoryUrl>https://github.com/2881099/NPinyin</RepositoryUrl>
+    <PackageTags>拼音 NPinyin</PackageTags>
+  </PropertyGroup>
+</Project>
